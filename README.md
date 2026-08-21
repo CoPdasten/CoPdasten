@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:DC143C&amp;height=220&amp;section=header&amp;text=CoPdasten&amp;fontSize=80&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=SOC%20Analyst%20%7C%20Purple%20Team%20%26%20Systems%20Security%20Researcher&amp;descSize=18&amp;descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:DC143C&height=250&section=header&text=CoPdasten&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=SOC%20Analyst&descSize=20&descAlignY=62" />
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=DC143C&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=650&amp;lines=SOC+Analyst+in+Training+%7C+Automated+Log+Monitoring;Purple+Teaming+%7C+Offensive+%26+Defensive+Synergy;Hardware+Hacking+%7C+ESP32%2C+RF+%26+NFC;Network+Architecture+%7C+Subnetting+%26+Packet+Analysis;Founder+of+CyberSyndicate)](https://git.io/typing-svg)
