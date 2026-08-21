@@ -28,7 +28,7 @@ class CoPdasten:
     def __init__(self):
         self.alias = "CoPdasten"
         self.role = "SOC Analyst & Security Researcher"
-        self.community = "Founder @ CyberSyndicate"
+        self.community = "Founder @ Kernel-Lab"
         
         self.languages = ["Python", "C#", "Ruby", "C/C++", "Bash", "PowerShell"]
         
